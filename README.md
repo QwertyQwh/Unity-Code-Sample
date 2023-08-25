@@ -1,5 +1,5 @@
 # Unity-Code-Sample
 
-The AI,Level,BattleSimulator,and widget folder are for editor tools. 
+The AI, Level, BattleSimulator, and widget folders are for editor tools. 
 
-tHE Achievement and Adventure folder are for runtime modules and UI monobehaviors.
+ The Achievements and Adventure folders are for runtime modules and UI monobehaviorss.
